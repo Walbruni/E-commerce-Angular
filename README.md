@@ -1,5 +1,7 @@
 # ECommerceAngular
 
+Repositório de criação de um E-commerce em Angular para o Bootcamp Santander da plataforma DIO
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.7.
 
 ## Development server
